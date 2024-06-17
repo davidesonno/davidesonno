@@ -1,6 +1,6 @@
-## Mentally Here
+## Currently struggling
 
-
+![Pedro](https://i.giphy.com/aQwvKKi4Lv3t63nZl9.webp)
 
 <!--
 **davidesonno/davidesonno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
