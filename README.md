@@ -1,6 +1,6 @@
 ## Currently struggling
 
-![Pedro](https://i.giphy.com/aQwvKKi4Lv3t63nZl9.webp)
+<img src="https://i.giphy.com/aQwvKKi4Lv3t63nZl9.webp" alt="Pedro" width="200"/>
 
 <!--
 **davidesonno/davidesonno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
