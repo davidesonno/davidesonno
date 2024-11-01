@@ -1,6 +1,6 @@
 ## Currently struggling
 
-[My projects](davidesonno.github.io)
+[My projects](https://davidesonno.github.io)
 
 <img src="https://i.giphy.com/aQwvKKi4Lv3t63nZl9.webp" alt="Pedro" width="50"/>
 
