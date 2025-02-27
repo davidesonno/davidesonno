@@ -1,4 +1,4 @@
-## Currently struggling
+## Currently debugging CUDA
 
 [My projects](https://davidesonno.github.io)
 
