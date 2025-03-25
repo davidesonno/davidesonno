@@ -1,4 +1,4 @@
-## Currently debugging CUDA
+## Working on Quantum computer
 
 [My projects](https://davidesonno.github.io)
 
