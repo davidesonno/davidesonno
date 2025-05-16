@@ -1,4 +1,4 @@
-## Working on Quantum computers!!
+## Working on Quantum computers
 
 [My projects](https://davidesonno.github.io)
 
