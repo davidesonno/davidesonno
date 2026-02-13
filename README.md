@@ -1,9 +1,8 @@
 # Davide Sonno
 
-**MSc Artificial Intelligence Graduate | Quantum Computing & Machine Learning Enthusiast**
+**Machine Learning Engineer | MSc Artificial Intelligence | Quantum Computing Research**
 
-Welcome! I’m a recent MSc graduate with a focus on **AI, quantum computing, and systems-oriented machine learning**.  
-I enjoy building practical solutions from research concepts, exploring the intersection of **AI and quantum technologies**, and developing tools that bridge theory and execution.
+AI MSc graduate specializing in machine learning and intelligent systems, with research experience in quantum computing and a focus on practical, production-oriented implementations.
 
 ---
 
