@@ -23,21 +23,22 @@ I enjoy building practical solutions from research concepts, exploring the inter
 - Validated inferred qubit count, circuit depth, and gate usage  
 - Built a translation pipeline to OpenQASM for execution and visualization  
 
-### 2. [MultiTask AQI Prediction](https://github.com/davidesonno/MultiTask-AQI-prediction)  
+### 2. [Movie Recommendation Chatbot](https://github.com/davidesonno/movie-recommendation-chatbot)  
+*Agentic chatbot for personalized movie recommendations (Python / LLMs / Vector DB)*  
+- Saves and updates user preferences to build a persistent user profile  
+- Retrieves relevant information via vector database search and web queries  
+- Orchestrates multi-step reasoning to generate tailored movie recommendations  
+
+### 3. [MultiTask AQI Prediction](https://github.com/davidesonno/MultiTask-AQI-prediction)  
 *Predicting Air Quality Index from traffic and weather data (Jupyter Notebook / Python)*  
 - Preprocessing pipelines for multi-feature input  
 - Implemented model architectures for multi-task regression  
 - Evaluated prediction performance on real-world datasets  
 
-### 3. [Multiple Products Recognition](https://github.com/davidesonno/multiple-products-recognition)  
+### 4. [Multiple Products Recognition](https://github.com/davidesonno/multiple-products-recognition)  
 *Product classification using computer vision*  
 - Part 1: Classical SIFT-based quantized star model for scale/rotation-invariant recognition  
 - Part 2: Deep learning approach with PyTorch for improved accuracy  
-
-### 4. [Multiple-Courier Planning Problem – CVRP](https://github.com/davidecrociati/Multiple-Courier-Planning-Problem-CVRP)  
-*Optimization of capacitated vehicle routing problems (Python)*  
-- Solved using Constraint Programming, SAT, SMT, and Mixed-Integer Linear Programming  
-- Focused on practical and scalable routing solutions  
 
 ### 5. [Sparse Neural Network Evaluation](https://github.com/davidesonno/sparse-neural-network-evaluation)  
 *Parallelized evaluation of sparse feed-forward neural networks*  
