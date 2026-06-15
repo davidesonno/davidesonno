@@ -56,9 +56,3 @@ AI MSc graduate specializing in machine learning and intelligent systems, with r
 - [LinkedIn](https://www.linkedin.com/in/davidesonno)  
 - Email: davidesonno@gmail.com  
 - MSc Thesis & Research: Quantum Resource Analysis & Compilation Pipeline
-
----
-
-### ⚡ Note
-I’m actively seeking opportunities in **AI, Quantum Computing, or AI + Quantum R&D**.  
-Feel free to explore my repositories, and reach out if you want to discuss projects, research, or collaborations!
