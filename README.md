@@ -1,6 +1,6 @@
 # Davide Sonno
 
-**Machine Learning Engineer | MSc Artificial Intelligence | Quantum Computing Research**
+**Incoming Associate Compiler Engineer at Riverlane | MSc Artificial Intelligence | Quantum Computing Research**
 
 AI MSc graduate specializing in machine learning and intelligent systems, with research experience in quantum computing and a focus on practical, production-oriented implementations.
 
